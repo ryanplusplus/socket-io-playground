@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/ryanplusplus/socket-io-playground.git"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "author": "ryanplusplus",
   "license": "MIT",
   "bugs": {
@@ -13,6 +16,7 @@
   },
   "homepage": "https://github.com/ryanplusplus/socket-io-playground#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "socket.io": "^1.3.6"
   }
 }

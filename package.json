@@ -1,0 +1,18 @@
+{
+  "name": "socket-io-playground",
+  "version": "0.0.1",
+  "description": "Playing around with socket I/O",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanplusplus/socket-io-playground.git"
+  },
+  "author": "ryanplusplus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanplusplus/socket-io-playground/issues"
+  },
+  "homepage": "https://github.com/ryanplusplus/socket-io-playground#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
